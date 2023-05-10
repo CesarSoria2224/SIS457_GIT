@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    Tiempo t1;
     playlist lista1;
     playlist favoritos;
     playlist latinos;
